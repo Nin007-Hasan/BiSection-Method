@@ -1,4 +1,4 @@
 Bi-Sectiion Method
 ============================
 
-Numerical Analysis Method for Root finding. Done this in c++ 
+Numerical Analysis Method for Root finding. Done this in c
